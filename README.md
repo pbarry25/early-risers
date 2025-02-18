@@ -25,9 +25,9 @@ PR's encouraged! :)
 | [Google](https://www.google.com/about/careers/applications/jobs/results) | Use the `Experience` filter |
 | [Human Rights Watch](https://www.hrw.org/careers#all_jobs) | Use the left-most filter dropdown |
 | [Intel](https://jobs.intel.com/en) | See the `Interns & Grads` category |
-| [Kroll](https://careers.kroll.com/en/listing-page) | Use the `Experience Level` filter | 
+| [Kroll](https://careers.kroll.com/en/listing-page) | Use the `Experience Level` filter |
 | [LinkedIn](https://www.linkedin.com/jobs/search) | Search across ALL OF THE JOBS currently posted on LI, use the `Experience level` filter |
-| [Microsoft](https://jobs.careers.microsoft.com/global/en/search) | Use the `Expereience` and `Employment type` filters |
+| [Microsoft](https://jobs.careers.microsoft.com/global/en/search) | Use the `Experience` and `Employment type` filters |
 | [Reddit](https://app.ripplematch.com/v2/public/company/reddit) | |
 | [Salesforce](https://careers.salesforce.com/en/jobs/) | Use the `Employee Type` filter |
 | [Spotify](https://www.lifeatspotify.com/jobs) | Use the `Job type` filter |

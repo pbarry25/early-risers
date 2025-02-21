@@ -1,15 +1,15 @@
 # Overview
 
-Curated list of companies (mostly in the tech space) who have open positions for folks early in their careers. The target audience includes:
+This is simplly a curated list of companies (mostly in the tech space at the moment, happy to broaden that over time) who post open positions aimed for folks early in their careers. The target audience here includes:
 
 * folks looking for internships
 * folks who recently graduated/completed school/training
 * folks who are on their first or second job in their career path
 * folks who are looking to pivot their career path
 
-This is designed to be a light-weight capture of companies who make it easy to locate "early friendly" jobs postings.
+TL;DR: This is designed to be a light-weight capture of companies who make it easy to locate "early friendly" jobs postings.
 
-PR's encouraged! :)
+And PR's encouraged! :)
 
 ---
 

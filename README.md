@@ -44,7 +44,7 @@ And PR's/feedback encouraged! :)
 | [Kroll](https://www.kroll.com) | [Link](https://careers.kroll.com) | [Link](https://careers.kroll.com/en/listing-page) | Use the `Experience Level` filter |
 | [LinkedIn](https://linkedin.com) | [Link](https://www.linkedin.com/jobs/) | [Link](https://www.linkedin.com/jobs/search) | Search across ALL OF THE JOBS currently posted on LI, use the `Experience level` filter |
 | [Logitech](https://logitech.com) | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
-| [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) ] | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
+| [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
 | [Match Group](https://mtch.com) | [Link](https://mtch.com/careers) | [Link](https://join.matchgroupcareers.com/careers) | Use the `Advanced Options -> Seniority` filter |
 | [McKinsey &amp; Company](https://www.mckinsey.com/) | [Link](https://www.mckinsey.com/careers/home) | [Link](https://www.mckinsey.com/careers/search-jobs) | Use the `Students` link on the [careers landing page](https://www.mckinsey.com/careers/home) |
 | [Meetup](https://www.meetup.com) | [Link](https://jobs.bendingspoons.com/) | [Link](https://jobs.bendingspoons.com) | Use the `Show only jobs suitable for students or new grads` checkbox |

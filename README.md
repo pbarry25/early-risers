@@ -43,7 +43,9 @@ And PR's/feedback encouraged! :)
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) ] | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
 | [Match Group](https://mtch.com) | [Link](https://mtch.com/careers) | [Link](https://join.matchgroupcareers.com/careers) | Use the `Advanced Options -> Seniority` filter |
 | [McKinsey &amp; Company](https://www.mckinsey.com/) | [Link](https://www.mckinsey.com/careers/home) | [Link](https://www.mckinsey.com/careers/search-jobs) | Use the `Students` link on the [careers landing page](https://www.mckinsey.com/careers/home) |
+| [Meetup](https://www.meetup.com) | [Link](https://jobs.bendingspoons.com/) | [Link](https://jobs.bendingspoons.com) | Use the `Show only jobs suitable for students or new grads` checkbox |
 | [Microsoft](https://microsoft.com) | [Link](https://careers.microsoft.com/) | [Link](https://jobs.careers.microsoft.com/global/en/search) | Use the `Experience` and `Employment type` filters |
+| [MITRE](https://www.mitre.org/) | [Link](https://www.mitre.org/careers) | [Link](https://careers.mitre.org/us/en) | Use the `Student Programs` and `Early Career Programs` links |
 | [PepsiCo](pepsico.com) | [Link](https://www.pepsicojobs.com/main) | [Link](https://www.pepsicojobs.com/main/jobs) | Use the `Internships & programs` link on the [careers landing page](https://www.pepsicojobs.com/main) |
 | [Pintrest](http://pintrest.com) | [Link](https://www.pinterestcareers.com/) | [Link](https://www.pinterestcareers.com/early-career/) | Use the `Apprenticeships` and `University Rectruiting` links |
 | [Proctor &amp; Gamble](https://pg.com) | [Link](https://www.pgcareers.com) | [Link](https://www.pgcareers.com/us/en/search-results) | Use the `Experience Levels` filter |

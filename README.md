@@ -35,6 +35,7 @@ And PR's/feedback encouraged! :)
 | [Cigna](https://www.cigna.com/) | [Link](https://jobs.thecignagroup.com) | [Link](https://jobs.thecignagroup.com/us/en/search-results) | Use the `Students and Grads` filter |
 | [Cisco](https://www.cisco.com/) | [Link](https://www.cisco.com/c/en/us/about/careers.html) | [Link](https://jobs.cisco.com/jobs/SearchJobs/) | Use the `Job Type` filter |
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |
+| [Disney](https://www.disney.com/) | [Link](https://jobs.disneycareers.com/) | [Link](https://www.disneycareers.com/en/search-jobs/) | Use the `JOB LEVEL` filter; additional details on their relevant programs [here](https://www.disneycareers.com/en/students-and-recent-graduates) |
 | [Figma](https://www.figma.com/) | [Link](https://www.figma.com/careers/) | [Link](https://www.figma.com/careers/#job-openings) | See the `Early Career` category |
 | [GitHub](https://github.com) | [Link](https://www.github.careers) | [Link](https://www.github.careers/careers-home/jobs) | Use the `Type` filter |
 | [Google](https://google.com) | [Link](https://www.google.com/about/careers/applications/) | [Link](https://www.google.com/about/careers/applications/jobs/results) | Use the `Experience` filter |

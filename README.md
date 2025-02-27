@@ -1,10 +1,12 @@
 # Overview
 
-TL;DR: This is designed to be a light-weight capture of companies who make it easy to locate "early friendly" jobs postings.
+TL;DR: This is designed to be a lightweight capture of companies/organizations who make it easy to locate "early friendly" jobs postings.
+
+Disclaimer: [I](https://github.com/pbarry25) am not directly affiliated with any of the companies listed here.
 
 This is simplly a curated list of companies who post open positions aimed for folks early in their careers.
 
-The target audience here includes:
+The target audience here includes (but is not limited to):
 
 * folks looking for internships
 * folks who recently graduated/completed school/training
@@ -26,8 +28,10 @@ And PR's/feedback encouraged! :)
 
 | Company | Careers landing page | Jobs listings link | Notes (optional) |
 |---|---|---|---|
+| [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [Amazon](https://amazon.com) | [Link](https://www.amazon.jobs) | [Link](https://www.amazon.jobs/content/en/job-categories/software-development#search) | Use the `Employment type` filter; additional intern positions listed [here](https://www.amazon.jobs/content/en/career-programs/university) |
 | [Arm](https://www.arm.com/) | [Link](https://careers.arm.com/) | [Link](https://careers.arm.com/search-jobs/) | Use the `Experience Level` filter |
+| [Best Buy](https://bestbuy.com) | [Link](https://jobs.bestbuy.com) | [Link](https://jobs.bestbuy.com/bby?id=all_jobs) | Use the `Experience Level` filter |
 | [Cigna](https://www.cigna.com/) | [Link](https://jobs.thecignagroup.com) | [Link](https://jobs.thecignagroup.com/us/en/search-results) | Use the `Students and Grads` filter |
 | [Cisco](https://www.cisco.com/) | [Link](https://www.cisco.com/c/en/us/about/careers.html) | [Link](https://jobs.cisco.com/jobs/SearchJobs/) | Use the `Job Type` filter |
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |

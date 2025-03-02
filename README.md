@@ -16,7 +16,7 @@ The target audience here includes (but is not limited to):
 Each row below contains links to the following:
 
 * the company's main website
-* the company's 'careers' landing page (usually these are geared toward 'talking up' the benefits of joining the company)
+* the company's 'careers' landing page, if they have one (usually these are geared toward 'talking up' the benefits of joining the company)
 * the current listing of open positions/jobs with the company
 * any guidance that might be helpful to find/filter the "early friendly" listings
 
@@ -31,11 +31,14 @@ And PR's/feedback encouraged! :)
 | [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [Amazon](https://amazon.com) | [Link](https://www.amazon.jobs) | [Link](https://www.amazon.jobs/content/en/job-categories/software-development#search) | Use the `Employment type` filter; additional intern positions listed [here](https://www.amazon.jobs/content/en/career-programs/university) |
 | [Arm](https://www.arm.com/) | [Link](https://careers.arm.com/) | [Link](https://careers.arm.com/search-jobs/) | Use the `Experience Level` filter |
+| [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |
 | [Best Buy](https://bestbuy.com) | [Link](https://jobs.bestbuy.com) | [Link](https://jobs.bestbuy.com/bby?id=all_jobs) | Use the `Experience Level` filter |
+| [Box](https://box.com) | [Link](https://careers.box.com/en/us-home/) | [Link](https://box.eightfold.ai/careers) | Use the `Early Career` tab at the top of the [careers landing page](https://careers.box.com/en/us-home/) |
 | [Cigna](https://www.cigna.com/) | [Link](https://jobs.thecignagroup.com) | [Link](https://jobs.thecignagroup.com/us/en/search-results) | Use the `Students and Grads` filter |
 | [Cisco](https://www.cisco.com/) | [Link](https://www.cisco.com/c/en/us/about/careers.html) | [Link](https://jobs.cisco.com/jobs/SearchJobs/) | Use the `Job Type` filter |
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |
 | [Disney](https://www.disney.com/) | [Link](https://jobs.disneycareers.com/) | [Link](https://www.disneycareers.com/en/search-jobs/) | Use the `JOB LEVEL` filter; additional details on their relevant programs [here](https://www.disneycareers.com/en/students-and-recent-graduates) |
+| [Eaton](https://www.eaton.com) | [Link](https://www.eaton.com/us/en-us/company/careers.html) | [Link](https://eaton.eightfold.ai/careers) | Use the `Early Talent` link on the [careers landing page](https://www.eaton.com/us/en-us/company/careers.html) |
 | [Figma](https://www.figma.com/) | [Link](https://www.figma.com/careers/) | [Link](https://www.figma.com/careers/#job-openings) | See the `Early Career` category |
 | [GitHub](https://github.com) | [Link](https://www.github.careers) | [Link](https://www.github.careers/careers-home/jobs) | Use the `Type` filter |
 | [Google](https://google.com) | [Link](https://www.google.com/about/careers/applications/) | [Link](https://www.google.com/about/careers/applications/jobs/results) | Use the `Experience` filter |
@@ -44,15 +47,16 @@ And PR's/feedback encouraged! :)
 | [Intel](https://intel.com) | [Link](https://www.intel.com/content/www/us/en/jobs/life-at-intel.html) | [Link](https://jobs.intel.com/en) | See the `Interns & Grads` category |
 | [Kroll](https://www.kroll.com) | [Link](https://careers.kroll.com) | [Link](https://careers.kroll.com/en/listing-page) | Use the `Experience Level` filter |
 | [LinkedIn](https://linkedin.com) | [Link](https://www.linkedin.com/jobs/) | [Link](https://www.linkedin.com/jobs/search) | Search across ALL OF THE JOBS currently posted on LI, use the `Experience level` filter |
-| [Logitech](https://logitech.com) | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
+| [Logitech](https://logitech.com) | N/A | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
 | [Match Group](https://mtch.com) | [Link](https://mtch.com/careers) | [Link](https://join.matchgroupcareers.com/careers) | Use the `Advanced Options -> Seniority` filter |
 | [McKinsey &amp; Company](https://www.mckinsey.com/) | [Link](https://www.mckinsey.com/careers/home) | [Link](https://www.mckinsey.com/careers/search-jobs) | Use the `Students` link on the [careers landing page](https://www.mckinsey.com/careers/home) |
-| [Meetup](https://www.meetup.com) | [Link](https://jobs.bendingspoons.com/) | [Link](https://jobs.bendingspoons.com) | Use the `Show only jobs suitable for students or new grads` checkbox |
+| [Meetup](https://www.meetup.com) | N/A | [Link](https://jobs.bendingspoons.com) | Use the `Show only jobs suitable for students or new grads` checkbox |
 | [Microsoft](https://microsoft.com) | [Link](https://careers.microsoft.com/) | [Link](https://jobs.careers.microsoft.com/global/en/search) | Use the `Experience` and `Employment type` filters |
 | [MITRE](https://www.mitre.org/) | [Link](https://www.mitre.org/careers) | [Link](https://careers.mitre.org/us/en) | Use the `Student Programs` and `Early Career Programs` links |
-| [PepsiCo](pepsico.com) | [Link](https://www.pepsicojobs.com/main) | [Link](https://www.pepsicojobs.com/main/jobs) | Use the `Internships & programs` link on the [careers landing page](https://www.pepsicojobs.com/main) |
-| [Pintrest](http://pintrest.com) | [Link](https://www.pinterestcareers.com/) | [Link](https://www.pinterestcareers.com/early-career/) | Use the `Apprenticeships` and `University Rectruiting` links |
+| [PayPal](https://paypal.com) | [Link](https://careers.pypl.com/home/) | [Link](https://paypal.eightfold.ai/careers?query=&location=) | Use the `Category` filter for `Interns` and `Recent Grads` |
+| [PepsiCo](https://pepsico.com) | [Link](https://www.pepsicojobs.com/main) | [Link](https://www.pepsicojobs.com/main/jobs) | Use the `Internships & programs` link on the [careers landing page](https://www.pepsicojobs.com/main) |
+| [Pintrest](https://pintrest.com) | [Link](https://www.pinterestcareers.com/) | [Link](https://www.pinterestcareers.com/early-career/) | Use the `Apprenticeships` and `University Rectruiting` links |
 | [Proctor &amp; Gamble](https://pg.com) | [Link](https://www.pgcareers.com) | [Link](https://www.pgcareers.com/us/en/search-results) | Use the `Experience Levels` filter |
 | [Reddit](https://reddit.com) | [Link](https://redditinc.com/careers) | [Link](https://app.ripplematch.com/v2/public/company/reddit) | Jobs listings link is specific for 'early career' postions |
 | [Salesforce](https://www.salesforce.com/) | [Link](https://careers.salesforce.com/) | [Link](https://careers.salesforce.com/en/jobs/) | Use the `Employee Type` filter |

@@ -31,6 +31,7 @@ And PR's/feedback encouraged! :)
 | [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [Amazon](https://amazon.com) | [Link](https://www.amazon.jobs) | [Link](https://www.amazon.jobs/content/en/job-categories/software-development#search) | Use the `Employment type` filter; additional intern positions listed [here](https://www.amazon.jobs/content/en/career-programs/university) |
 | [Arm](https://www.arm.com/) | [Link](https://careers.arm.com/) | [Link](https://careers.arm.com/search-jobs/) | Use the `Experience Level` filter |
+| [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | Use the `Earlry Careers` tab at the top of the [careers landing page](https://www.atlassian.com/company/careers) or use the `Interns` and `Graduates` filters ||
 | [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |
 | [Best Buy](https://bestbuy.com) | [Link](https://jobs.bestbuy.com) | [Link](https://jobs.bestbuy.com/bby?id=all_jobs) | Use the `Experience Level` filter |
 | [Box](https://box.com) | [Link](https://careers.box.com/en/us-home/) | [Link](https://box.eightfold.ai/careers) | Use the `Early Career` tab at the top of the [careers landing page](https://careers.box.com/en/us-home/) |
@@ -39,6 +40,7 @@ And PR's/feedback encouraged! :)
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |
 | [Disney](https://www.disney.com/) | [Link](https://jobs.disneycareers.com/) | [Link](https://www.disneycareers.com/en/search-jobs/) | Use the `JOB LEVEL` filter; additional details on their relevant programs [here](https://www.disneycareers.com/en/students-and-recent-graduates) |
 | [Eaton](https://www.eaton.com) | [Link](https://www.eaton.com/us/en-us/company/careers.html) | [Link](https://eaton.eightfold.ai/careers) | Use the `Early Talent` link on the [careers landing page](https://www.eaton.com/us/en-us/company/careers.html) |
+| [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | Use the `Emerging Talent` link on the [careers landing page](https://jobs.ebayinc.com/us/en) |
 | [Figma](https://www.figma.com/) | [Link](https://www.figma.com/careers/) | [Link](https://www.figma.com/careers/#job-openings) | See the `Early Career` category |
 | [GitHub](https://github.com) | [Link](https://www.github.careers) | [Link](https://www.github.careers/careers-home/jobs) | Use the `Type` filter |
 | [Google](https://google.com) | [Link](https://www.google.com/about/careers/applications/) | [Link](https://www.google.com/about/careers/applications/jobs/results) | Use the `Experience` filter |

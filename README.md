@@ -64,6 +64,7 @@ And PR's/feedback encouraged! :)
 | [Proctor &amp; Gamble](https://pg.com) | [Link](https://www.pgcareers.com) | [Link](https://www.pgcareers.com/us/en/search-results) | Use the `Experience Levels` filter |
 | [Reddit](https://reddit.com) | [Link](https://redditinc.com/careers) | [Link](https://app.ripplematch.com/v2/public/company/reddit) | Jobs listings link is specific for 'early career' postions |
 | [Salesforce](https://www.salesforce.com/) | [Link](https://careers.salesforce.com/) | [Link](https://careers.salesforce.com/en/jobs/) | Use the `Employee Type` filter |
+| [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | Use the `Merging Talent` link on the [careers landing page](https://samsara.com/company/careers/emerging-talent?departments=Early+Career) |
 | [Spotify](https://spotify.com) | [Link](https://www.lifeatspotify.com/) | [Link](https://www.lifeatspotify.com/jobs) | Use the `Job type` filter |
 | [SVA](https://www.sva.de) | [Link](https://www.sva.de/de/karriere) | [Link](https://www.sva.de/de/job-portal/) | Use the `Karrierelevel` filter |
 | [Unilever](https://www.unilever.com/) | [Link](https://careers.unilever.com/) | [Link](https://careers.unilever.com/search-jobs) | Use the `Early careers` link on the [careers landing page](https://careers.unilever.com/) |

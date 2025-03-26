@@ -36,11 +36,13 @@ And PR's/feedback encouraged! :)
 | [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |
 | [Best Buy](https://bestbuy.com) | [Link](https://jobs.bestbuy.com) | [Link](https://jobs.bestbuy.com/bby?id=all_jobs) | Use the `Experience Level` filter |
 | [Box](https://box.com) | [Link](https://careers.box.com/en/us-home/) | [Link](https://box.eightfold.ai/careers) | Use the `Early Career` tab at the top of the [careers landing page](https://careers.box.com/en/us-home/) |
+| [Check Point]((https://www.checkpoint.com/) | [Link](https://www.checkpoint.com/careers/) | [Link](https://careers.checkpoint.com/index.php?module=cpcareers&a=search&q=) | Use the [`View Our Associate Program`](https://www.checkpoint.com/careers/programs/) link on the [careers landing page](https://www.checkpoint.com/careers/) |
 | [Cigna](https://www.cigna.com/) | [Link](https://jobs.thecignagroup.com) | [Link](https://jobs.thecignagroup.com/us/en/search-results) | Use the `Students and Grads` filter |
 | [Cisco](https://www.cisco.com/) | [Link](https://www.cisco.com/c/en/us/about/careers.html) | [Link](https://jobs.cisco.com/jobs/SearchJobs/) | Use the `Job Type` filter |
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |
 | [Crowdstrike](https://www.crowdstrike.com) | [Link](https://www.crowdstrike.com/en-us/careers/) | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers) | Use the `University & Interns` link on the [careers landing page](https://www.crowdstrike.com/en-us/careers/) |
 | [Disney](https://www.disney.com/) | [Link](https://jobs.disneycareers.com/) | [Link](https://www.disneycareers.com/en/search-jobs/) | Use the `JOB LEVEL` filter; additional details on their relevant programs [here](https://www.disneycareers.com/en/students-and-recent-graduates) |
+| [Duo](https://duo.com/) | [Link](https://duo.com/careers) | [Link](https://jobs.cisco.com/jobs/SearchJobs/%22Duo%20Security%22) | Use the `Job Type` filter |
 | [Eaton](https://www.eaton.com) | [Link](https://www.eaton.com/us/en-us/company/careers.html) | [Link](https://eaton.eightfold.ai/careers) | Use the `Early Talent` link on the [careers landing page](https://www.eaton.com/us/en-us/company/careers.html) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | Use the `Emerging Talent` link on the [careers landing page](https://jobs.ebayinc.com/us/en) |
 | [Figma](https://www.figma.com/) | [Link](https://www.figma.com/careers/) | [Link](https://www.figma.com/careers/#job-openings) | See the `Early Career` category |

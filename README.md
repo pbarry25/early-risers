@@ -36,7 +36,7 @@ And PR's/feedback encouraged! :)
 | [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |
 | [Best Buy](https://bestbuy.com) | [Link](https://jobs.bestbuy.com) | [Link](https://jobs.bestbuy.com/bby?id=all_jobs) | Use the `Experience Level` filter |
 | [Box](https://box.com) | [Link](https://careers.box.com/en/us-home/) | [Link](https://box.eightfold.ai/careers) | Use the `Early Career` tab at the top of the [careers landing page](https://careers.box.com/en/us-home/) |
-| [Check Point]((https://www.checkpoint.com/) | [Link](https://www.checkpoint.com/careers/) | [Link](https://careers.checkpoint.com/index.php?module=cpcareers&a=search&q=) | Use the [`View Our Associate Program`](https://www.checkpoint.com/careers/programs/) link on the [careers landing page](https://www.checkpoint.com/careers/) |
+| [Check Point](https://www.checkpoint.com/) | [Link](https://www.checkpoint.com/careers/) | [Link](https://careers.checkpoint.com/index.php?module=cpcareers&a=search&q=) | Use the [`View Our Associate Program`](https://www.checkpoint.com/careers/programs/) link on the [careers landing page](https://www.checkpoint.com/careers/) |
 | [Cigna](https://www.cigna.com/) | [Link](https://jobs.thecignagroup.com) | [Link](https://jobs.thecignagroup.com/us/en/search-results) | Use the `Students and Grads` filter |
 | [Cisco](https://www.cisco.com/) | [Link](https://www.cisco.com/c/en/us/about/careers.html) | [Link](https://jobs.cisco.com/jobs/SearchJobs/) | Use the `Job Type` filter |
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |

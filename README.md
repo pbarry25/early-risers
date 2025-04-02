@@ -47,6 +47,7 @@ And PR's/feedback encouraged! :)
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | Use the `Emerging Talent` link on the [careers landing page](https://jobs.ebayinc.com/us/en) |
 | [Figma](https://www.figma.com/) | [Link](https://www.figma.com/careers/) | [Link](https://www.figma.com/careers/#job-openings) | See the `Early Career` category |
 | [GitHub](https://github.com) | [Link](https://www.github.careers) | [Link](https://www.github.careers/careers-home/jobs) | Use the `Type` filter |
+| [GM](https://www.gm.com/) | [Link](https://search-careers.gm.com) | [Link](https://search-careers.gm.com/en/jobs) | Use the [Early Careers](https://search-careers.gm.com/en/early-careers/) link at the top of the [careers landing page](https://search-careers.gm.com) or the `Students & Recent Graduates` filter on the [job search page](https://search-careers.gm.com/en/jobs) |
 | [Google](https://google.com) | [Link](https://www.google.com/about/careers/applications/) | [Link](https://www.google.com/about/careers/applications/jobs/results) | Use the `Experience` filter |
 | [Honda](https://honda.com) | [Link](https://careers.honda.com/) | [Link](https://careers.honda.com/search) | Use the `Co-op & Internship Program` and `Entry-Level Rotational Programs` links on the [careers landing page](https://careers.honda.com) |
 | [Human Rights Watch](https://www.hrw.org/) | [Link](https://www.hrw.org/careers) | [Link](https://www.hrw.org/careers#all_jobs) | Use the left-most filter dropdown |
@@ -74,6 +75,7 @@ And PR's/feedback encouraged! :)
 | [Unilever](https://www.unilever.com/) | [Link](https://careers.unilever.com/) | [Link](https://careers.unilever.com/search-jobs) | Use the `Early careers` link on the [careers landing page](https://careers.unilever.com/) |
 | [Verizon](https://www.verizon.com/) | [Link](https://mycareer.verizon.com/) | [Link](https://mycareer.verizon.com/jobs/) | Use the [`Students & Interships`](https://mycareer.verizon.com/life-at-verizon/students-internships/) from the `Life at Verizon` drop-down on the [careers landing page](https://mycareer.verizon.com/) |
 | [Waymo](https://waymo.com/) | [Link](https://careers.withwaymo.com/) | [Link](https://careers.withwaymo.com/jobs/search) | Use the `Experience Level` filter |
+| [Wells Fargo](https://www.wellsfargo.com/) | [Link](https://www.wellsfargo.com/about/careers/) | [Link](https://www.wellsfargojobs.com/) | Use the `Early Careers` drop-down on the [job search page](https://www.wellsfargojobs.com/) |
 | [Wilson Sonsini Goodrich &amp; Rosati](https://www.wsgr.com) | [Link](https://careers.wsgr.com/) | [Link](https://careers.wsgr.com/find-your-path/) | Use the `A law student or recent graduate` filter |
 
 ---

@@ -51,8 +51,10 @@ And PR's/feedback encouraged! :)
 | [Honda](https://honda.com) | [Link](https://careers.honda.com/) | [Link](https://careers.honda.com/search) | Use the `Co-op & Internship Program` and `Entry-Level Rotational Programs` links on the [careers landing page](https://careers.honda.com) |
 | [Human Rights Watch](https://www.hrw.org/) | [Link](https://www.hrw.org/careers) | [Link](https://www.hrw.org/careers#all_jobs) | Use the left-most filter dropdown |
 | [Intel](https://intel.com) | [Link](https://www.intel.com/content/www/us/en/jobs/life-at-intel.html) | [Link](https://jobs.intel.com/en) | See the `Interns & Grads` category |
+| [KPMG](https://kpmg.com/) | [Link](https://kpmg.com/xx/en/careers.html) | [Link](https://kpmg.com/xx/en/careers/job-search.html) | Use the [`Early Career`](https://www.kpmguscareers.com/early-career/) button on the right once you select your location on the [job search page](https://kpmg.com/xx/en/careers/job-search.html) |
 | [Kroll](https://www.kroll.com) | [Link](https://careers.kroll.com) | [Link](https://careers.kroll.com/en/listing-page) | Use the `Experience Level` filter |
 | [LinkedIn](https://linkedin.com) | [Link](https://www.linkedin.com/jobs/) | [Link](https://www.linkedin.com/jobs/search) | Search across ALL OF THE JOBS currently posted on LI, use the `Experience level` filter |
+| [Lockheed Martin](https://www.lockheedmartin.com) | [Link](https://www.lockheedmartin.com/en-us/careers/index.html) | [Link](https://www.lockheedmartinjobs.com/search-jobs) | Use the [`Students & Early Careers`](https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers.html) from the `Careers` drop-down, or the `Experience Level` filter in the [job search page](https://www.lockheedmartinjobs.com/search-jobs) |
 | [Logitech](https://logitech.com) | N/A | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
 | [Match Group](https://mtch.com) | [Link](https://mtch.com/careers) | [Link](https://join.matchgroupcareers.com/careers) | Use the `Advanced Options -> Seniority` filter |
@@ -70,6 +72,7 @@ And PR's/feedback encouraged! :)
 | [Spotify](https://spotify.com) | [Link](https://www.lifeatspotify.com/) | [Link](https://www.lifeatspotify.com/jobs) | Use the `Job type` filter |
 | [SVA](https://www.sva.de) | [Link](https://www.sva.de/de/karriere) | [Link](https://www.sva.de/de/job-portal/) | Use the `Karrierelevel` filter |
 | [Unilever](https://www.unilever.com/) | [Link](https://careers.unilever.com/) | [Link](https://careers.unilever.com/search-jobs) | Use the `Early careers` link on the [careers landing page](https://careers.unilever.com/) |
+| [Verizon](https://www.verizon.com/) | [Link](https://mycareer.verizon.com/) | [Link](https://mycareer.verizon.com/jobs/) | Use the [`Students & Interships`](https://mycareer.verizon.com/life-at-verizon/students-internships/) from the `Life at Verizon` drop-down on the [careers landing page](https://mycareer.verizon.com/) |
 | [Waymo](https://waymo.com/) | [Link](https://careers.withwaymo.com/) | [Link](https://careers.withwaymo.com/jobs/search) | Use the `Experience Level` filter |
 | [Wilson Sonsini Goodrich &amp; Rosati](https://www.wsgr.com) | [Link](https://careers.wsgr.com/) | [Link](https://careers.wsgr.com/find-your-path/) | Use the `A law student or recent graduate` filter |
 

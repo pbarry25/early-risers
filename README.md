@@ -41,6 +41,7 @@ And PR's/feedback encouraged! :)
 | [Cisco](https://www.cisco.com/) | [Link](https://www.cisco.com/c/en/us/about/careers.html) | [Link](https://jobs.cisco.com/jobs/SearchJobs/) | Use the `Job Type` filter |
 | [Citigroup](https://citigroup.com/) | [Link](https://careers.citigroup.com/) | [Link](https://jobs.citi.com/search-jobs/) | Use the `Level` filter |
 | [Crowdstrike](https://www.crowdstrike.com) | [Link](https://www.crowdstrike.com/en-us/careers/) | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers) | Use the `University & Interns` link on the [careers landing page](https://www.crowdstrike.com/en-us/careers/) |
+| [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers) | [Link](https://cummins.jobs/) | Use the `Recruitment Job Type` filter or see the program links on [this page](https://www.cummins.com/careers/paths) |
 | [Disney](https://www.disney.com/) | [Link](https://jobs.disneycareers.com/) | [Link](https://www.disneycareers.com/en/search-jobs/) | Use the `JOB LEVEL` filter; additional details on their relevant programs [here](https://www.disneycareers.com/en/students-and-recent-graduates) |
 | [Duo](https://duo.com/) | [Link](https://duo.com/careers) | [Link](https://jobs.cisco.com/jobs/SearchJobs/%22Duo%20Security%22) | Use the `Job Type` filter |
 | [Eaton](https://www.eaton.com) | [Link](https://www.eaton.com/us/en-us/company/careers.html) | [Link](https://eaton.eightfold.ai/careers) | Use the `Early Talent` link on the [careers landing page](https://www.eaton.com/us/en-us/company/careers.html) |

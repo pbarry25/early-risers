@@ -31,7 +31,7 @@ And PR's/feedback encouraged! :)
 | [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [Amazon](https://amazon.com) | [Link](https://www.amazon.jobs) | [Link](https://www.amazon.jobs/content/en/job-categories/software-development#search) | Use the `Employment type` filter; additional intern positions listed [here](https://www.amazon.jobs/content/en/career-programs/university) |
 | [Aon](https://www.aon.com) | [Link](https://jobs.aon.com/) | [Link](https://jobs.aon.com/jobs) | Use the `Early Careers` link at the top of the [careers landing page](https://jobs.aon.com/) |
-| [Apple](https://apple.com) | [Link](https://jobs.apple.com) | [Link](https://jobs.apple.com/search) | Use the search keywords `early career` in the [job search page](https://jobs.apple.com/search) |
+| [Apple](https://apple.com) | [Link](https://jobs.apple.com) | [Link](https://jobs.apple.com/search) | Use the search keywords `early career` or `internship` in the [job search page](https://jobs.apple.com/search) |
 | [Arm](https://www.arm.com/) | [Link](https://careers.arm.com/) | [Link](https://careers.arm.com/search-jobs/) | Use the `Experience Level` filter |
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | Use the `Earlry Careers` tab at the top of the [careers landing page](https://www.atlassian.com/company/careers) or use the `Interns` and `Graduates` filters |
 | [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |

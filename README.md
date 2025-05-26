@@ -81,6 +81,8 @@ And PR's/feedback encouraged! :)
 | [Waymo](https://waymo.com/) | [Link](https://careers.withwaymo.com/) | [Link](https://careers.withwaymo.com/jobs/search) | Use the `Experience Level` filter |
 | [Wells Fargo](https://www.wellsfargo.com/) | [Link](https://www.wellsfargo.com/about/careers/) | [Link](https://www.wellsfargojobs.com/) | Use the `Early Careers` drop-down on the [job search page](https://www.wellsfargojobs.com/) |
 | [Wilson Sonsini Goodrich &amp; Rosati](https://www.wsgr.com) | [Link](https://careers.wsgr.com/) | [Link](https://careers.wsgr.com/find-your-path/) | Use the `A law student or recent graduate` filter |
+| [WSP Global](https://www.wsp.com) | [Link](https://www.wsp.com/en-us/careers) | [Link](https://www.wsp.com/careers/job-opportunities) | Use the keywords `early career` on the [job search page](https://www.wsp.com/en-us/careers/job-opportunities?query=early%20career) |
+| [WTW](https://www.wtwco.com) | [Link](https://careers.wtwco.com/) | [Link](https://careers.wtwco.com/jobs/search) | Use the `Early Careers` drop-down on the [careers landing page](https://careers.wtwco.com/) |
 
 ---
 

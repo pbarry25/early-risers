@@ -67,6 +67,7 @@ And PR's/feedback encouraged! :)
 | [Meetup](https://www.meetup.com) | N/A | [Link](https://jobs.bendingspoons.com) | Use the `Show only jobs suitable for students or new grads` checkbox |
 | [Microsoft](https://microsoft.com) | [Link](https://careers.microsoft.com/) | [Link](https://jobs.careers.microsoft.com/global/en/search) | Use the `Experience` and `Employment type` filters |
 | [MITRE](https://www.mitre.org/) | [Link](https://www.mitre.org/careers) | [Link](https://careers.mitre.org/us/en) | Use the `Student Programs` and `Early Career Programs` links |
+| [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | Use the `EARLY CAREER PROGRAMS` link on the [careers landing page](https://www.nfl.com/careers/) |
 | [PayPal](https://paypal.com) | [Link](https://careers.pypl.com/home/) | [Link](https://paypal.eightfold.ai/careers?query=&location=) | Use the `Category` filter for `Interns` and `Recent Grads` |
 | [PepsiCo](https://pepsico.com) | [Link](https://www.pepsicojobs.com/main) | [Link](https://www.pepsicojobs.com/main/jobs) | Use the `Internships & programs` link on the [careers landing page](https://www.pepsicojobs.com/main) |
 | [Pintrest](https://pintrest.com) | [Link](https://www.pinterestcareers.com/) | [Link](https://www.pinterestcareers.com/early-career/) | Use the `Apprenticeships` and `University Rectruiting` links |
@@ -76,6 +77,7 @@ And PR's/feedback encouraged! :)
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | Use the `Emerging Talent` link on the [careers landing page](https://samsara.com/company/careers/emerging-talent?departments=Early+Career) |
 | [Spotify](https://spotify.com) | [Link](https://www.lifeatspotify.com/) | [Link](https://www.lifeatspotify.com/jobs) | Use the `Job type` filter |
 | [SVA](https://www.sva.de) | [Link](https://www.sva.de/de/karriere) | [Link](https://www.sva.de/de/job-portal/) | Use the `Karrierelevel` filter |
+| [UBS](https://www.ubs.com/) | [Link](https://www.ubs.com/global/en/careers.html) | [Link](https://www.ubs.com/global/en/careers/search-jobs.html) | Use the `Early careers` link at the top of the [careers landing page](https://www.ubs.com/global/en/careers.html) |
 | [Unilever](https://www.unilever.com/) | [Link](https://careers.unilever.com/) | [Link](https://careers.unilever.com/search-jobs) | Use the `Early careers` link on the [careers landing page](https://careers.unilever.com/) |
 | [Verizon](https://www.verizon.com/) | [Link](https://mycareer.verizon.com/) | [Link](https://mycareer.verizon.com/jobs/) | Use the [`Students & Interships`](https://mycareer.verizon.com/life-at-verizon/students-internships/) from the `Life at Verizon` drop-down on the [careers landing page](https://mycareer.verizon.com/) |
 | [Waymo](https://waymo.com/) | [Link](https://careers.withwaymo.com/) | [Link](https://careers.withwaymo.com/jobs/search) | Use the `Experience Level` filter |

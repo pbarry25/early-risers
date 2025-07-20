@@ -26,7 +26,7 @@ And PR's/feedback encouraged! :)
 
 # The list
 
-| Company | Careers landing page | Jobs listings link | Notes (optional) |
+| Company/Org/Entity | Careers landing page | Jobs listings link | Notes (optional) |
 |---|---|---|---|
 | [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [Amazon](https://amazon.com) | [Link](https://www.amazon.jobs) | [Link](https://www.amazon.jobs/content/en/job-categories/software-development#search) | Use the `Employment type` filter; additional intern positions listed [here](https://www.amazon.jobs/content/en/career-programs/university) |
@@ -48,6 +48,7 @@ And PR's/feedback encouraged! :)
 | [Duo](https://duo.com/) | [Link](https://duo.com/careers) | [Link](https://jobs.cisco.com/jobs/SearchJobs/%22Duo%20Security%22) | Use the `Job Type` filter |
 | [Eaton](https://www.eaton.com) | [Link](https://www.eaton.com/us/en-us/company/careers.html) | [Link](https://eaton.eightfold.ai/careers) | Use the `Early Talent` link on the [careers landing page](https://www.eaton.com/us/en-us/company/careers.html) |
 | [eBay](https://www.ebay.com/) | [Link](https://jobs.ebayinc.com/us/en) | [Link](https://jobs.ebayinc.com/us/en/search-results) | Use the `Emerging Talent` link on the [careers landing page](https://jobs.ebayinc.com/us/en) |
+| [Ericsson](https://www.ericsson.com) | [Link](https://www.ericsson.com/en/careers/better-brighter-tomorrow) | [Link](https://jobs.ericsson.com/careers?start=0&pid=563121766198189&sort_by=hot) | Use the `Students and graduates` link under the `Careers` dropdown on the [home page](https://www.ericsson.com) |
 | [Figma](https://www.figma.com/) | [Link](https://www.figma.com/careers/) | [Link](https://www.figma.com/careers/#job-openings) | See the `Early Career` category |
 | [GitHub](https://github.com) | [Link](https://www.github.careers) | [Link](https://www.github.careers/careers-home/jobs) | Use the `Type` filter |
 | [GM](https://www.gm.com/) | [Link](https://search-careers.gm.com) | [Link](https://search-careers.gm.com/en/jobs) | Use the [Early Careers](https://search-careers.gm.com/en/early-careers/) link at the top of the [careers landing page](https://search-careers.gm.com) or the `Students & Recent Graduates` filter on the [job search page](https://search-careers.gm.com/en/jobs) |
@@ -78,6 +79,7 @@ And PR's/feedback encouraged! :)
 | [Spotify](https://spotify.com) | [Link](https://www.lifeatspotify.com/) | [Link](https://www.lifeatspotify.com/jobs) | Use the `Job type` filter |
 | [SVA](https://www.sva.de) | [Link](https://www.sva.de/de/karriere) | [Link](https://www.sva.de/de/job-portal/) | Use the `Karrierelevel` filter |
 | [UBS](https://www.ubs.com/) | [Link](https://www.ubs.com/global/en/careers.html) | [Link](https://www.ubs.com/global/en/careers/search-jobs.html) | Use the `Early careers` link at the top of the [careers landing page](https://www.ubs.com/global/en/careers.html) |
+| [United States Government](https://www.usajobs.gov) | [Link](https://help.usajobs.gov) | [Link](https://help.usajobs.gov/early-careers) | Use the `Search student internships` and `Search recent graduate jobs` links on the [Early careers page](https://help.usajobs.gov/early-careers) |
 | [Unilever](https://www.unilever.com/) | [Link](https://careers.unilever.com/) | [Link](https://careers.unilever.com/search-jobs) | Use the `Early careers` link on the [careers landing page](https://careers.unilever.com/) |
 | [Verizon](https://www.verizon.com/) | [Link](https://mycareer.verizon.com/) | [Link](https://mycareer.verizon.com/jobs/) | Use the [`Students & Interships`](https://mycareer.verizon.com/life-at-verizon/students-internships/) from the `Life at Verizon` drop-down on the [careers landing page](https://mycareer.verizon.com/) |
 | [Waymo](https://waymo.com/) | [Link](https://careers.withwaymo.com/) | [Link](https://careers.withwaymo.com/jobs/search) | Use the `Experience Level` filter |

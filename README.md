@@ -34,6 +34,7 @@ And PR's/feedback encouraged! :)
 | [Apple](https://apple.com) | [Link](https://jobs.apple.com) | [Link](https://jobs.apple.com/search) | Use the search keywords `early career` or `internship` in the [job search page](https://jobs.apple.com/search) |
 | [Arm](https://www.arm.com/) | [Link](https://careers.arm.com/) | [Link](https://careers.arm.com/search-jobs/) | Use the `Experience Level` filter |
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | Use the `Earlry Careers` tab at the top of the [careers landing page](https://www.atlassian.com/company/careers) or use the `Interns` and `Graduates` filters |
+| [Bank of America](https://www.bankofamerica.com/) | [Link](https://careers.bankofamerica.com) | [Link](https://careers.bankofamerica.com/en-us/students/job-search?ref=search&start=0&rows=10&search=getAllJobs) | Use the `For students` button on the [careers landing page](https://careers.bankofamerica.com) |
 | [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |
 | [Best Buy](https://bestbuy.com) | [Link](https://jobs.bestbuy.com) | [Link](https://jobs.bestbuy.com/bby?id=all_jobs) | Use the `Experience Level` filter |
 | [Blue Origin](https://www.blueorigin.com/) | [Link](https://www.blueorigin.com/careers) | [Link](https://www.blueorigin.com/careers/search) | Use the `Interns/Early Career` tab at the top of the [careers landing page](https://www.blueorigin.com/careers) |
@@ -77,6 +78,7 @@ And PR's/feedback encouraged! :)
 | [Salesforce](https://www.salesforce.com/) | [Link](https://careers.salesforce.com/) | [Link](https://careers.salesforce.com/en/jobs/) | Use the `Employee Type` filter |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | Use the `Emerging Talent` link on the [careers landing page](https://samsara.com/company/careers/emerging-talent?departments=Early+Career) |
 | [Spotify](https://spotify.com) | [Link](https://www.lifeatspotify.com/) | [Link](https://www.lifeatspotify.com/jobs) | Use the `Job type` filter |
+| [Suno](https://suno.com) | [Link](https://suno.com/about) | [Link](https://jobs.ashbyhq.com/suno) | Look for job titles with `Early Career` or `Intern` in their title on the [job search page](https://jobs.ashbyhq.com/suno)  |
 | [SVA](https://www.sva.de) | [Link](https://www.sva.de/de/karriere) | [Link](https://www.sva.de/de/job-portal/) | Use the `Karrierelevel` filter |
 | [UBS](https://www.ubs.com/) | [Link](https://www.ubs.com/global/en/careers.html) | [Link](https://www.ubs.com/global/en/careers/search-jobs.html) | Use the `Early careers` link at the top of the [careers landing page](https://www.ubs.com/global/en/careers.html) |
 | [United States Government](https://www.usajobs.gov) | [Link](https://help.usajobs.gov) | [Link](https://help.usajobs.gov/early-careers) | Use the `Search student internships` and `Search recent graduate jobs` links on the [Early careers page](https://help.usajobs.gov/early-careers) |

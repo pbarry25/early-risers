@@ -64,6 +64,7 @@ And PR's/feedback encouraged! :)
 | [Logitech](https://logitech.com) | N/A | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | Use the [`Early Careers`](https://careers.marriott.com/career-journeys/early-careers/) link in the `Career Journeys` drop-down on the [careers landing page](https://careers.marriott.com/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
+| [Mastercard](https://www.mastercard.com) | [Link](https://careers.mastercard.com) | [Link](https://careers.mastercard.com/us/en/search-results) | Use the `Students` dropdown on the [careers landing page](https://careers.mastercard.com) |
 | [Match Group](https://mtch.com) | [Link](https://mtch.com/careers) | [Link](https://join.matchgroupcareers.com/careers) | Use the `Advanced Options -> Seniority` filter |
 | [McKinsey &amp; Company](https://www.mckinsey.com/) | [Link](https://www.mckinsey.com/careers/home) | [Link](https://www.mckinsey.com/careers/search-jobs) | Use the `Students` link on the [careers landing page](https://www.mckinsey.com/careers/home) |
 | [Meetup](https://www.meetup.com) | N/A | [Link](https://jobs.bendingspoons.com) | Use the `Show only jobs suitable for students or new grads` checkbox |
@@ -72,6 +73,7 @@ And PR's/feedback encouraged! :)
 | [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | Use the `EARLY CAREER PROGRAMS` link on the [careers landing page](https://www.nfl.com/careers/) |
 | [PayPal](https://paypal.com) | [Link](https://careers.pypl.com/home/) | [Link](https://paypal.eightfold.ai/careers?query=&location=) | Use the `Category` filter for `Interns` and `Recent Grads` |
 | [PepsiCo](https://pepsico.com) | [Link](https://www.pepsicojobs.com/main) | [Link](https://www.pepsicojobs.com/main/jobs) | Use the `Internships & programs` link on the [careers landing page](https://www.pepsicojobs.com/main) |
+| [Pfizer](https://www.pfizer.com/) | [Link](https://www.pfizer.com/about/careers) | [Link](https://www.pfizer.com/about/careers/search-results) | Use the `Early Careers` button on the [careers landing page](https://www.pfizer.com/about/careers) |
 | [Pintrest](https://pintrest.com) | [Link](https://www.pinterestcareers.com/) | [Link](https://www.pinterestcareers.com/early-career/) | Use the `Apprenticeships` and `University Rectruiting` links |
 | [Proctor &amp; Gamble](https://pg.com) | [Link](https://www.pgcareers.com) | [Link](https://www.pgcareers.com/us/en/search-results) | Use the `Experience Levels` filter |
 | [Reddit](https://reddit.com) | [Link](https://redditinc.com/careers) | [Link](https://app.ripplematch.com/v2/public/company/reddit) | Jobs listings link is specific for 'early career' postions |

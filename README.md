@@ -28,6 +28,7 @@ And PR's/feedback encouraged! :)
 
 | Company/Org/Entity | Careers landing page | Jobs listings link | Notes (optional) |
 |---|---|---|---|
+| [Accenture](https://www.accenture.com) | [Link](https://www.accenture.com/us-en/careers) | [Link](https://www.accenture.com/us-en/careers/jobsearch) | Use the links under the `Wherever you are in your career` section of the [careers landing page](https://www.accenture.com/us-en/careers) |
 | [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [Amazon](https://amazon.com) | [Link](https://www.amazon.jobs) | [Link](https://www.amazon.jobs/content/en/job-categories/software-development#search) | Use the `Employment type` filter; additional intern positions listed [here](https://www.amazon.jobs/content/en/career-programs/university) |
 | [Aon](https://www.aon.com) | [Link](https://jobs.aon.com/) | [Link](https://jobs.aon.com/jobs) | Use the `Early Careers` link at the top of the [careers landing page](https://jobs.aon.com/) |
@@ -71,6 +72,7 @@ And PR's/feedback encouraged! :)
 | [Microsoft](https://microsoft.com) | [Link](https://careers.microsoft.com/) | [Link](https://jobs.careers.microsoft.com/global/en/search) | Use the `Experience` and `Employment type` filters |
 | [MITRE](https://www.mitre.org/) | [Link](https://www.mitre.org/careers) | [Link](https://careers.mitre.org/us/en) | Use the `Student Programs` and `Early Career Programs` links |
 | [NFL](https://www.nfl.com) | [Link](https://www.nfl.com/careers/) | [Link](https://job-boards.greenhouse.io/nflcareers) | Use the `EARLY CAREER PROGRAMS` link on the [careers landing page](https://www.nfl.com/careers/) |
+| [Oracle](https://www.oracle.com/) | [Link](https://www.oracle.com/careers/) | [Link](https://careers.oracle.com/en/sites/jobsearch/jobs) | Use the `Students and Graduates` drop-down on the [careers landing page](https://www.oracle.com/careers/) |
 | [PayPal](https://paypal.com) | [Link](https://careers.pypl.com/home/) | [Link](https://paypal.eightfold.ai/careers?query=&location=) | Use the `Category` filter for `Interns` and `Recent Grads` |
 | [PepsiCo](https://pepsico.com) | [Link](https://www.pepsicojobs.com/main) | [Link](https://www.pepsicojobs.com/main/jobs) | Use the `Internships & programs` link on the [careers landing page](https://www.pepsicojobs.com/main) |
 | [Pfizer](https://www.pfizer.com/) | [Link](https://www.pfizer.com/about/careers) | [Link](https://www.pfizer.com/about/careers/search-results) | Use the `Early Careers` button on the [careers landing page](https://www.pfizer.com/about/careers) |

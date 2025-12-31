@@ -108,5 +108,5 @@ And PR's/feedback encouraged! :)
 
 # Other resources in a similar vein
 
-* [2025-SWE-College-Jobs](https://github.com/speedyapply/2025-SWE-College-Jobs)
-* [Summer2025-Internships](https://github.com/cvrve/Summer2025-Internships)
+* [2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs)
+* [Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)

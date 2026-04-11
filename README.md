@@ -28,6 +28,7 @@ And PR's/feedback encouraged! :)
 
 | Company/Org/Entity | Careers landing page | Jobs listings link | Notes (optional) |
 |---|---|---|---|
+| [Abbott](https://www.abbott.com) | [Link](https://www.abbott.com/en-us/careers) | [Link](https://www.jobs.abbott/us/en) | Use the `Explore early careers` button on the [careers landing page](https://www.abbott.com/en-us/careers) |
 | [Accenture](https://www.accenture.com) | [Link](https://www.accenture.com/us-en/careers) | [Link](https://www.accenture.com/us-en/careers/jobsearch) | Use the links under the `Wherever you are in your career` section of the [careers landing page](https://www.accenture.com/us-en/careers) |
 | [Adobe](https://adobe.com) | [Link](https://careers.adobe.com) | [Link](https://careers.adobe.com/us/en/search-results) | Use the `Experience Level` filter |
 | [AIG](https://www.aig.com) | [Link](https://www.aig.com/home/careers) | [Link](https://aig.wd1.myworkdayjobs.com/aig) | Use the `Students & Graduates` link on the [careers landing page](https://www.aig.com/home/careers) |
@@ -36,6 +37,7 @@ And PR's/feedback encouraged! :)
 | [Apple](https://apple.com) | [Link](https://jobs.apple.com) | [Link](https://jobs.apple.com/search) | Use the search keywords `early career` or `internship` in the [job search page](https://jobs.apple.com/search) |
 | [Arm](https://www.arm.com/) | [Link](https://careers.arm.com/) | [Link](https://careers.arm.com/search-jobs/) | Use the `Experience Level` filter |
 | [Atlassian](https://www.atlassian.com/) | [Link](https://www.atlassian.com/company/careers) | [Link](https://www.atlassian.com/company/careers/all-jobs) | Use the `Early Careers` tab at the top of the [careers landing page](https://www.atlassian.com/company/careers) or use the `Interns` and `Graduates` filters |
+| [Avery Dennison](https://www.averydennison.com) | [Link](https://www.averydennison.com/en/home/careers/overview.html) | [Link](https://www.averydennison.com/en/home/careers/search-jobs.html) | See the `Early career opportunities` section on the [careers landing page](https://www.averydennison.com/en/home/careers/overview.html) |
 | [BAE Systems](https://www.baesystems.com) | [Link](https://careers.baesystems.com/) | [Link](https://jobsearch.baesystems.com/browse-jobs) | BAE's early career programs are available in the U.K., Australia, and Saudi Arabia. Use the `Students, graduates and career changers` tab on the [careers landing page](https://careers.baesystems.com/) |
 | [Bank of America](https://www.bankofamerica.com/) | [Link](https://careers.bankofamerica.com) | [Link](https://careers.bankofamerica.com/en-us/students/job-search?ref=search&start=0&rows=10&search=getAllJobs) | Use the `For students` button on the [careers landing page](https://careers.bankofamerica.com) |
 | [Bayer](https://bayer.com) | N/A | [Link](https://talent.bayer.com/careers) | Use the `Career Level` filter under `Advanced Options` |

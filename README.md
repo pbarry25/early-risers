@@ -4,7 +4,7 @@ TL;DR: This is designed to be a lightweight capture of companies/organizations w
 
 Disclaimer: [I](https://github.com/pbarry25) am not directly affiliated with any of the companies listed here.
 
-This is simplly a curated list of companies who post open positions aimed for folks early in their careers.
+This is simply a curated list of companies who post open positions aimed for folks early in their careers.
 
 The target audience here includes (but is not limited to):
 
@@ -20,7 +20,7 @@ Each row below contains links to the following:
 * the current listing of open positions/jobs with the company
 * any guidance that might be helpful to find/filter the "early friendly" listings
 
-And PR's/feedback encouraged! :)
+And PRs/feedback encouraged! :)
 
 ---
 
@@ -107,7 +107,7 @@ And PR's/feedback encouraged! :)
 | [Ramp](https://ramp.com/) | [Link](https://ramp.com/careers) | [Link](https://ramp.com/careers#jobs) | Use the `Emerging talent` link on the [footer of their pages](https://ramp.com/careers) |
 | [Reddit](https://reddit.com) | [Link](https://redditinc.com/careers) | [Link](https://app.ripplematch.com/v2/public/company/reddit) | Jobs listings link is specific for 'early career' postions |
 | [Related](https://www.related.com/) | [Link](https://www.related.com/careers) | [Link](https://www.related.jobs/careers-home/) | Use the `Summer Internships` link on the [job search page](https://www.related.jobs/careers-home/) |
-| [Replit](https://replit.com/) | [Link](https://replit.com/careers) | [Link](https://jobs.ashbyhq.com/replit) | Uset the `Employment Type -> Intern` dropdown on the [job search page](https://jobs.ashbyhq.com/replit) |
+| [Replit](https://replit.com/) | [Link](https://replit.com/careers) | [Link](https://jobs.ashbyhq.com/replit) | Use the `Employment Type -> Intern` dropdown on the [job search page](https://jobs.ashbyhq.com/replit) |
 | [Salesforce](https://www.salesforce.com/) | [Link](https://careers.salesforce.com/) | [Link](https://careers.salesforce.com/en/jobs/) | Use the `Employee Type` filter |
 | [Samsara](https://samsara.com/) | [Link](https://samsara.com/company/careers) | [Link](https://samsara.com/company/careers/roles) | Use the `Emerging Talent` link on the [careers landing page](https://samsara.com/company/careers/emerging-talent?departments=Early+Career) |
 | [Schneider Electric](https://www.se.com) | [Link](https://careers.se.com/careers-at-schneider-electric) | [Link](https://careers.se.com/jobs) | Use the `Early Careers` link on the [job search page](https://careers.se.com/careers-at-schneider-electric) |

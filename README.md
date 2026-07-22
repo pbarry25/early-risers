@@ -8,23 +8,23 @@ This is simply a curated list of companies who post open positions aimed for fol
 
 The target audience here includes (but is not limited to):
 
-* folks looking for internships
-* folks who recently graduated/completed school/training
-* folks who are on their first or second job in their career path
+* folks looking for internships,
+* folks who recently graduated/completed school/training,
+* folks who are on their first or second job in their career path, and
 * folks who are looking to pivot their career path
 
 Each row below contains links to the following:
 
-* the company's main website
-* the company's 'careers' landing page, if they have one (usually these are geared toward 'talking up' the benefits of joining the company)
-* the current listing of open positions/jobs with the company
+* the company's main website,
+* the company's 'careers' landing page, if they have one (usually these are geared toward 'talking up' the benefits of joining the company),
+* the current listing of open positions/jobs with the company, and
 * any guidance that might be helpful to find/filter the "early friendly" listings
 
-And PRs/feedback encouraged! :)
+And any PRs or feedback are encouraged! :)
 
 ---
 
-# The list
+# The List
 
 | Company/Org/Entity | Careers landing page | Jobs listings link | Notes (optional) |
 |---|---|---|---|
@@ -80,7 +80,7 @@ And PRs/feedback encouraged! :)
 | [Kroll](https://www.kroll.com) | [Link](https://careers.kroll.com) | [Link](https://careers.kroll.com/en/listing-page) | Use the `Experience Level` filter |
 | [LinkedIn](https://linkedin.com) | [Link](https://www.linkedin.com/jobs/) | [Link](https://www.linkedin.com/jobs/search) | Search across ALL OF THE JOBS currently posted on LI, use the `Experience level` filter |
 | [Lockheed Martin](https://www.lockheedmartin.com) | [Link](https://www.lockheedmartin.com/en-us/careers/index.html) | [Link](https://www.lockheedmartinjobs.com/search-jobs) | Use the [`Students & Early Careers`](https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers.html) from the `Careers` drop-down, or the `Experience Level` filter in the [job search page](https://www.lockheedmartinjobs.com/search-jobs) |
-| [Logitech](https://logitech.com) | N/A | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
+| [Logitech](https://logitech.com) | [Link](https://www.logitech.com/en-us/careers) | [Link](https://logitech.wd5.myworkdayjobs.com/Logitech) | Use the `Job Category` filter |
 | [Marriott](https://www.marriott.com/) | [Link](https://careers.marriott.com/) | [Link](https://careers.marriott.com/jobs) | Use the [`Early Careers`](https://careers.marriott.com/career-journeys/early-careers/) link in the `Career Journeys` drop-down on the [careers landing page](https://careers.marriott.com/) |
 | [MassMutual](https://www.massmutual.com/) | [Link](https://www.massmutual.com/about-us/careers) | [Link](https://careers.massmutual.com/search-jobs) | Use the `Explore Student Opportunities` link on the [careers landing page](https://www.massmutual.com/about-us/careers) |
 | [Mastercard](https://www.mastercard.com) | [Link](https://careers.mastercard.com) | [Link](https://careers.mastercard.com/us/en/search-results) | Use the `Students` drop-down on the [careers landing page](https://careers.mastercard.com) |
